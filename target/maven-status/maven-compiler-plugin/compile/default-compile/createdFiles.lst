@@ -36,7 +36,6 @@ com\portfolio\ar\Entity\Skills.class
 com\portfolio\ar\Service\ImpPersonaService.class
 com\portfolio\ar\Dto\SkillsDto.class
 com\portfolio\ar\Repository\EducacionRepository.class
-com\portfolio\ar\WebConfig.class
 com\portfolio\ar\Controller\PersonaController.class
 com\portfolio\ar\Entity\Persona.class
 com\portfolio\ar\Security\Controller\Mensaje.class
